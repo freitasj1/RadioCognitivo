@@ -6,7 +6,7 @@ import time
 import tkinter as tk
 import threading as th
 
-# Configurações da porta serial
+
 porta = "COM4"  
 baudrate = 115200  
 duracao = 2  
